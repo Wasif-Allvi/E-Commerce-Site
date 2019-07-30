@@ -1,0 +1,37 @@
+/*Porduct CSS **/
+.product-item{
+
+	background: #dcf4fc;
+}
+
+.child-rows{
+	padding-left: 30px;
+	border-left: 1px solid #dfdfdf;
+	background: #FFF;
+}
+
+.child-rows a.list-group-item{
+	border-left: 0px ! important;
+}
+
+/**
+* Overwrite CSS
+*/
+.bg-light {
+    background-color: #b0d6fb!important;
+}
+
+.margin-top-20{
+
+	margin-top: 55px;
+}
+
+.feature-img{
+	max-height: 300px;
+}
+
+.footer-bottom{
+	padding: 40px;
+	margin-top: 30px;
+	background: #859aa0;
+}
